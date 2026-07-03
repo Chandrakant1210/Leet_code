@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandrakant1210/Leet_code/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
