@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandrakant1210/Leet_code/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandrakant1210/Leet_code/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Chandrakant1210/Leet_code/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0876-middle-of-the-linked-list) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/Chandrakant1210/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chandrakant1210/Leet_code/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
