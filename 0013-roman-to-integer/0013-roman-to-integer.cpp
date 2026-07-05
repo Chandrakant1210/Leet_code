@@ -14,7 +14,7 @@ public:
         if(mp[s[i]]<mp[s[i+1]])
         {
             ans-=mp[s[i]];
-            cout<<ans<<" in minus"<<s[i]<<"\n";
+
         }
         else ans+=mp[s[i]];
        }
