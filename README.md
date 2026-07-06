@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Chandrakant1210/Leet_code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chandrakant1210/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrakant1210/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chandrakant1210/Leet_code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Chandrakant1210/Leet_code/tree/master/0125-valid-palindrome) |
 ## Design
 |  |
 | ------- |
