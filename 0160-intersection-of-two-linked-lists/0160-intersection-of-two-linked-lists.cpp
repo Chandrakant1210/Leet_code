@@ -20,7 +20,7 @@ public:
         int c=0;
          while(temp){
             
-            if(count(begin(res),end(res),temp)==1){
+            if(find(res.begin(),res.end(),temp)!=res.end()){
                 
             return temp;
             }
