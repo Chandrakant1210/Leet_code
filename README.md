@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chandrakant1210/Leet_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chandrakant1210/Leet_code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chandrakant1210/Leet_code/tree/master/0141-linked-list-cycle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chandrakant1210/Leet_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/Chandrakant1210/Leet_code/tree/master/0152-maximum-product-subarray) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Chandrakant1210/Leet_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
