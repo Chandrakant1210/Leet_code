@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Chandrakant1210/Leet_code/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Chandrakant1210/Leet_code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Chandrakant1210/Leet_code/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chandrakant1210/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/Chandrakant1210/Leet_code/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandrakant1210/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandrakant1210/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Chandrakant1210/Leet_code/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
