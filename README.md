@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Chandrakant1210/Leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Chandrakant1210/Leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chandrakant1210/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrakant1210/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chandrakant1210/Leet_code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Chandrakant1210/Leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Chandrakant1210/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
