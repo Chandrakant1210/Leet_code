@@ -6,8 +6,7 @@ int gcd(int a, int b){
     return gcd(b ,a%b);
 }
     int findGCD(vector<int>& nums) {
-    int m=*max_element(nums.begin(),nums.end());
-    int m2=*min_element(nums.begin(),nums.end());
-    return gcd(m2,m);
+   sort(nums.begin(),nums.end());
+    return gcd(nums[0],nums[nums.size()-1]);
     }
 };
