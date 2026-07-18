@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chandrakant1210/Leet_code/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Chandrakant1210/Leet_code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandrakant1210/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chandrakant1210/Leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Chandrakant1210/Leet_code/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandrakant1210/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandrakant1210/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Chandrakant1210/Leet_code/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandrakant1210/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
