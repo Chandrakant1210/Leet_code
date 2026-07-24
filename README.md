@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chandrakant1210/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Chandrakant1210/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandrakant1210/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Chandrakant1210/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrakant1210/Leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandrakant1210/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
