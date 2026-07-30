@@ -10,23 +10,14 @@ public:
             hash1[s1[i]-'a']++;
             hash2[s2[i]-'a']++;
         }
-        int i=0;
-        int j=s1.size();
-        
-        while(j<s2.size()){
-            if(hash1==hash2)
-            break;
-           
-        else{
-                
-            hash2[s2[i]-'a']--;
-            hash2[s2[j]-'a']++;
-            i++; j++;
-        }
-            
-        }
         if(hash1==hash2)
         return true;
+        for(int i=s1.size();i<s2.size();i++){
+            hash2[s2[i]-'a']++;
+            hash2[s2[i-s1.size()]-'a']--;
+            if(hash1==hash2)
+        return true;
+        }
         return false;
     }
 };
