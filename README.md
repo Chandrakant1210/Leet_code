@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chandrakant1210/Leet_code/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Chandrakant1210/Leet_code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandrakant1210/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Chandrakant1210/Leet_code/tree/master/0496-next-greater-element-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Chandrakant1210/Leet_code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chandrakant1210/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -169,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chandrakant1210/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Chandrakant1210/Leet_code/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandrakant1210/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
