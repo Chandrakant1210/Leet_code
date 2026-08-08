@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Chandrakant1210/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandrakant1210/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Chandrakant1210/Leet_code/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chandrakant1210/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Chandrakant1210/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandrakant1210/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chandrakant1210/Leet_code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
