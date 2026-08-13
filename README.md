@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Chandrakant1210/Leet_code/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chandrakant1210/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrakant1210/Leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Chandrakant1210/Leet_code/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandrakant1210/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandrakant1210/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
