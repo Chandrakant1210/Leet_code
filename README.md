@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chandrakant1210/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chandrakant1210/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chandrakant1210/Leet_code/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chandrakant1210/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandrakant1210/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Chandrakant1210/Leet_code/tree/master/0496-next-greater-element-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chandrakant1210/Leet_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Chandrakant1210/Leet_code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Chandrakant1210/Leet_code/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chandrakant1210/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0567-permutation-in-string) |
 ## Design
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrakant1210/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Chandrakant1210/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Chandrakant1210/Leet_code/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandrakant1210/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
